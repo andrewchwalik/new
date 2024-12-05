@@ -1,0 +1,471 @@
+/* screen - home-page */
+
+.home-page {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  height: 3953px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.home-page .overlap-group7 {
+  height: 1930px;
+  margin-left: -505px;
+  position: relative;
+  width: 2232px;
+}
+
+.home-page .header-background {
+  height: 1760px;
+  left: 437px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1795px;
+}
+
+.home-page .wedding-video-service {
+  align-items: center;
+  display: flex;
+  gap: 90px;
+  height: 537px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1825px;
+  padding: 0 6px;
+  position: absolute;
+  top: 1393px;
+}
+
+.home-page .wedding-service {
+  height: 537px;
+  object-fit: cover;
+  width: 450px;
+}
+
+.home-page .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 11.0px;
+  min-height: 380px;
+  width: 774px;
+}
+
+.home-page .well-help-capture-y {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 96px;
+  width: 688px;
+}
+
+.home-page .no-matter-your-budge {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 27px;
+  min-height: 144px;
+  width: 774px;
+}
+
+.home-page .overlap-group {
+  align-items: center;
+  background-color: var(--cerulean);
+  border-radius: 30px;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  margin-left: 4px;
+  margin-top: 55px;
+  min-width: 238px;
+  padding: 0 50px;
+}
+
+.home-page .pricing {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 42px;
+  text-align: center;
+  width: 136px;
+}
+
+.home-page .sub-hero-text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 703px;
+  min-height: 130px;
+  position: absolute;
+  top: 1094px;
+  width: 1052px;
+}
+
+.home-page .were-a-videography-container {
+  height: 48px;
+  margin-right: 6.0px;
+  position: relative;
+  width: 1046px;
+}
+
+.home-page .were-a-videography {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .we-film-and-produce {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  min-height: 72px;
+  text-align: center;
+  width: 1012px;
+}
+
+.home-page .overlap-group6 {
+  height: 236px;
+  left: 1053px;
+  position: absolute;
+  top: 209px;
+  width: 343px;
+}
+
+.home-page .with-video {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 300;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 161px;
+}
+
+.home-page .place {
+  color: var(--cerulean);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 900;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+}
+
+.home-page .telling-your {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 300;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .event-cover {
+  cursor: pointer;
+  height: 251px;
+  left: 505px;
+  object-fit: cover;
+  position: absolute;
+  top: 663px;
+  width: 378px;
+}
+
+.home-page .real-estate-cover {
+  cursor: pointer;
+  height: 251px;
+  left: 1567px;
+  position: absolute;
+  top: 663px;
+  width: 378px;
+}
+
+.home-page .wedding-cover {
+  cursor: pointer;
+  height: 332px;
+  left: 930px;
+  position: absolute;
+  top: 600px;
+  transition: all 0.2s ease;
+  width: 590px;
+}
+
+.home-page .wedding-cover:hover {
+  transform: scale(1.1);
+}
+
+.home-page .navigation-bar {
+  align-items: center;
+  display: flex;
+  height: 75px;
+  left: 505px;
+  min-width: 1403px;
+  position: absolute;
+  top: 31px;
+}
+
+.home-page .storytime-logo-1 {
+  height: 75px;
+  width: 270px;
+}
+
+.home-page .navigation-bar-pages {
+  align-items: flex-start;
+  display: flex;
+  height: 39px;
+  margin-bottom: 12.0px;
+  margin-left: 148px;
+  min-width: 563px;
+}
+
+.home-page .wedding {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  min-width: 130px;
+}
+
+.home-page .real-estate {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 76px;
+  min-height: 39px;
+  min-width: 167px;
+}
+
+.home-page .events {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 82px;
+  min-height: 39px;
+}
+
+.home-page .book-a-call-button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 12.0px;
+  margin-left: 216px;
+  min-width: 208px;
+}
+
+.home-page .overlap-group-1 {
+  align-items: flex-end;
+  height: 39px;
+  min-width: 206px;
+  padding: 4px 37px;
+}
+
+.home-page .book-a-call {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+  text-align: center;
+  width: 132px;
+}
+
+.home-page .real-estate-video-service {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 90px;
+  margin-right: -507px;
+  margin-top: 191px;
+  min-width: 1826px;
+}
+
+.home-page .flex-col-1 {
+  align-items: flex-end;
+  gap: 38px;
+  margin-top: 1.0px;
+  min-height: 338px;
+  width: 779px;
+}
+
+.home-page .hype-up-your-real-es {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 96px;
+  text-align: right;
+  width: 688px;
+}
+
+.home-page .make-your-listing-th {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 108px;
+  text-align: right;
+  width: 779px;
+}
+
+.home-page .overlap-group3 {
+  align-items: center;
+  background-color: var(--cerulean);
+  border-radius: 30px;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 238px;
+  padding: 0 50px;
+}
+
+.home-page .real-estate-service {
+  height: 535px;
+  object-fit: cover;
+  width: 450px;
+}
+
+.home-page .overlap-group8 {
+  height: 1119px;
+  margin-left: -501px;
+  margin-top: 178px;
+  position: relative;
+  width: 1956px;
+}
+
+.home-page .flex-col-2 {
+  align-items: center;
+  background-image: url(../img/footer-grey-background.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  gap: 7px;
+  left: 488px;
+  min-height: 858px;
+  padding: 57px 53px;
+  position: absolute;
+  top: 261px;
+  width: 1466px;
+}
+
+.home-page .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 296px;
+  height: 72px;
+  margin-right: 6.0px;
+  margin-top: 561px;
+  min-width: 1272px;
+}
+
+.home-page .our-passion-is-creat {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 72px;
+  width: 670px;
+}
+
+.home-page .book-a-call-button-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 6.0px;
+  min-width: 306px;
+}
+
+.home-page .overlap-group-2 {
+  align-items: center;
+  height: 58px;
+  min-width: 304px;
+  padding: 0 54px;
+}
+
+.home-page .book-a-call-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 42px;
+  text-align: center;
+  width: 196px;
+}
+
+.home-page .footer-container {
+  align-items: center;
+  display: flex;
+  margin-right: 111.0px;
+  min-width: 1249px;
+}
+
+.home-page .storytime-footer-logo {
+  height: 104px;
+  width: 395px;
+}
+
+.home-page .youtube-footer-icon {
+  cursor: pointer;
+  height: 45px;
+  margin-left: 696px;
+  margin-top: 5.0px;
+  width: 63px;
+}
+
+.home-page .instagram-footer-icon {
+  cursor: pointer;
+  height: 46px;
+  margin-left: 49px;
+  margin-top: 6.0px;
+  width: 46px;
+}
+
+.home-page .event-video-service {
+  align-items: center;
+  display: flex;
+  gap: 90px;
+  height: 535px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1847px;
+  padding: 0 6px;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .copy-of-campground-review-thumbnail-1 {
+  height: 535px;
+  object-fit: cover;
+  width: 450px;
+}
+
+.home-page .flex-col-3 {
+  align-items: flex-start;
+  margin-top: 11.0px;
+  min-height: 380px;
+  width: 800px;
+}
+
+.home-page .give-your-attendees {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 96px;
+  width: 749px;
+}
+
+.home-page .well-produce-a-vide {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 27px;
+  min-height: 144px;
+  width: 800px;
+}
+
+.home-page .flex-col-4 {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-page .overlap-group-3 {
+  background-color: var(--cerulean);
+  border-radius: 30px;
+  display: flex;
+}
